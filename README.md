@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# machine-learning-dicoding
+
+<sub>Notebook dan eksperimen machine learning dari kelas Dicoding.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | machine-learning-dicoding |
+| Primary language | Jupyter Notebook |
+| Topics | data-science, dicoding, jupyter-notebook, machine-learning, python, tensorflow |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+machine-learning-dicoding is a hands-on repository focused on: Notebook dan eksperimen machine learning dari kelas Dicoding.. Primary language: Jupyter Notebook. Topics: data-science, dicoding, jupyter-notebook, machine-learning, python, tensorflow. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
